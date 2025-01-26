@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Devops, Cloud related Solutions**
 
-- 📝 I regularly write articles on [https://www.youtube.com/channel/ucsczxirlfl61fhjm6jw2nda](https://www.youtube.com/channel/ucsczxirlfl61fhjm6jw2nda)
+- 📝 I regularly upload videos on [abijith_k_a]([https://www.youtube.com/channel/ucsczxirlfl61fhjm6jw2nda](https://www.youtube.com/@abijithka02?si=8Q3qzRfcU-n_GdyJ))
 
 - 📫 How to reach me **https://topmate.io/abijith_k_a**
 
