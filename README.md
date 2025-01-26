@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Jenkins, Ansible, Docker**
 
-- 👯 I’m looking to collaborate on **Scud Networks, Verbo**
+- 👯 I’m currently collaborated on **Scud Networks, Verbo**
 
 - 🤝 I’m looking for help with **Devops, Cloud related Solutions**
 
