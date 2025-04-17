@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abijithka3" target="blank"><img src="https://img.shields.io/twitter/follow/abijithka3?logo=twitter&style=for-the-badge" alt="abijithka3" /></a> </p>
 
-- 🔭 I’m currently working on [Verbo](https://verbowise.com/)
+- 🔭 I’m currently working on [Scud Networks](https://scudnetworks.com/)
 
 - 🌱 I’m currently learning **Kubernetes, Jenkins, Ansible, Docker**
 
