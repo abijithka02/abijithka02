@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/abijithka3" target="blank"><img src="https://img.shields.io/twitter/follow/abijithka3?logo=twitter&style=for-the-badge" alt="abijithka3" /></a> </p>
 
-- 🔭 I’m currently working on [Scud Networks](https://scudnetworks.com/)
   
 Junior software engineer with hands-on experience in FastAPI, Docker, Kubernetes, PostgreSQL, Redis,
 Ansible, and Git. Passionate about backend development and DevOps, with a strong interest in building scalable
@@ -15,7 +14,7 @@ systems and learning modern cloud technologies.
 A fast learner with a curious mindset, I’m ready to take on challenges and contribute meaningfully to modern tech
 projects.
 
-- 🌱 I’m currently learning **Kubernetes, Jenkins, Ansible, Docker**
+- 🔭 I’m currently working on [Scud Networks](https://scudnetworks.com/)
 
 - 👯 I’m looking to collaborate on **Scud Networks, Verbo**
 
