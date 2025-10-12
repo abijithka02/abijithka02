@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abijith K A</h1>
-<h3 align="center">A passionate Devops developer from India</h3>
+<h3 align="center">A passionate Devops Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abijithka02&label=Profile%20views&color=0e75b6&style=flat" alt="abijithka02" /> </p>
 
