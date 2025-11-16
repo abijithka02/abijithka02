@@ -26,7 +26,7 @@ projects.
 
 - ⚡ Fun fact **I think I am Silent**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
